@@ -1,4 +1,5 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200423,NY,263460,432460,None,15021,57103,5016,None,None,None,23887,15740,57103,695920,695920,695920,438,0,19694,6244,25938
 20200422,NY,257216,412766,None,15599,57103,5016,None,None,None,23887,15302,57103,669982,669982,669982,474,0,15131,5526,20657
 20200421,NY,251690,397635,None,16076,57103,5016,None,None,None,23887,14828,57103,649325,649325,649325,481,0,11286,4178,15464
 20200420,NY,247512,386349,None,16103,57103,5016,None,None,None,23887,14347,57103,633861,633861,633861,478,1380,11580,4726,16306

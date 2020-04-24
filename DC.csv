@@ -1,4 +1,5 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200423,DC,3361,12569,None,402,None,120,None,200,None,648,139,None,15930,15930,15930,12,0,273,155,428
 20200422,DC,3206,12296,None,402,None,120,None,69,None,645,127,None,15502,15502,15502,15,0,455,108,563
 20200421,DC,3098,11841,None,402,None,120,None,69,None,636,112,None,14939,14939,14939,7,0,655,171,826
 20200420,DC,2927,11186,None,402,None,120,None,69,None,630,105,None,14113,14113,14113,9,0,280,134,414
@@ -6,8 +7,8 @@ date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulativ
 20200418,DC,2666,10602,None,313,None,105,None,79,None,608,91,None,13268,13268,13268,5,0,435,190,625
 20200417,DC,2476,10167,None,313,None,105,None,79,None,573,86,None,12643,12643,12643,5,0,367,126,493
 20200416,DC,2350,9800,None,313,None,105,None,79,None,552,81,None,12150,12150,12150,9,0,472,153,625
-20200415,DC,2197,9328,None,313,None,105,None,79,None,530,72,None,11525,11525,11525,5,0,-132,139,7
-20200414,DC,2058,9460,None,295,None,95,None,31,None,518,67,None,11518,11518,11518,14,0,481,103,584
+20200415,DC,2197,9328,None,313,None,105,None,79,None,530,72,None,11525,11525,11525,5,0,102,139,241
+20200414,DC,2058,9226,None,295,None,95,None,31,None,518,67,None,11284,11284,11284,14,0,247,103,350
 20200413,DC,1955,8979,None,295,None,95,None,31,None,507,53,None,10934,10934,10934,3,0,214,80,294
 20200412,DC,1875,8765,None,None,None,None,None,None,None,493,50,None,10640,10640,10640,3,0,504,97,601
 20200411,DC,1778,8261,None,None,None,None,None,None,None,447,47,None,10039,10039,10039,9,0,566,118,684
