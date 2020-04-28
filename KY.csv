@@ -1,4 +1,5 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200427,KY,4074,44400,None,308,1274,166,608,None,None,1511,208,1274,48474,48474,48474,3,8,1747,169,1916
 20200426,KY,3905,42653,None,301,1266,164,605,None,None,1501,205,1266,46558,46558,46558,5,123,1470,126,1596
 20200425,KY,3779,41183,None,303,1143,164,575,None,None,1341,200,1143,44962,44962,44962,9,28,1820,298,2118
 20200424,KY,3481,39363,None,302,1115,163,570,None,None,1335,191,1115,42844,42844,42844,6,10,6661,108,6769

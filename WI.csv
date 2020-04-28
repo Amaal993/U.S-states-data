@@ -1,4 +1,5 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200427,WI,6081,61311,204,337,1415,124,355,None,None,None,281,1415,67596,67392,67392,9,18,2076,170,2246
 20200426,WI,5911,59235,197,337,1397,136,353,None,None,None,272,1397,65343,65146,65146,6,21,2097,224,2321
 20200425,WI,5687,57138,241,337,1376,136,353,None,None,None,266,1376,63066,62825,62825,4,23,2565,331,2896
 20200424,WI,5356,54573,206,361,1353,143,346,None,None,None,262,1353,60135,59929,59929,5,35,3117,304,3421
