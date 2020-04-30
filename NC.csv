@@ -1,4 +1,6 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200429,NC,9948,108492,None,551,None,None,None,None,None,None,354,None,118440,118440,118440,12,0,5308,380,5688
+20200428,NC,9568,103184,None,463,None,None,None,None,None,None,342,None,112752,112752,112752,36,0,2406,426,2832
 20200427,NC,9142,100778,None,473,None,None,None,None,None,None,306,None,109920,109920,109920,7,0,1714,312,2026
 20200426,NC,8830,99064,None,451,None,None,None,None,None,None,299,None,107894,107894,107894,10,0,2422,207,2629
 20200425,NC,8623,96642,None,456,None,None,None,None,None,None,289,None,105265,105265,105265,20,0,4110,571,4681

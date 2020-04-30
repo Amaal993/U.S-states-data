@@ -1,4 +1,6 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200429,TX,27054,287736,None,1702,None,None,None,None,None,12507,732,None,314790,314790,314790,42,0,13523,883,14406
+20200428,TX,26171,274213,None,1682,None,None,None,None,None,11786,690,None,300384,300384,300384,27,0,8993,874,9867
 20200427,TX,25297,265220,None,1563,None,None,None,None,None,11170,663,None,290517,290517,290517,15,0,13830,666,14496
 20200426,TX,24631,251390,None,1542,None,None,None,None,None,10763,648,None,276021,276021,276021,25,0,12347,858,13205
 20200425,TX,23773,239043,None,1597,None,None,None,None,None,9986,623,None,262816,262816,262816,30,0,19302,967,20269
