@@ -1,4 +1,11 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200506,AK,372,23283,None,8,None,None,None,None,None,284,10,None,23655,23655,23655,1,0,962,1,963
+20200505,AK,371,22321,None,13,None,None,None,None,None,277,9,None,22692,22692,22692,0,0,968,1,969
+20200504,AK,370,21353,None,12,None,None,None,None,None,263,9,None,21723,21723,21723,0,0,143,2,145
+20200503,AK,368,21210,None,12,None,None,None,None,None,262,9,None,21578,21578,21578,0,0,176,3,179
+20200502,AK,365,21034,None,10,None,None,None,None,None,261,9,None,21399,21399,21399,0,0,1073,1,1074
+20200501,AK,364,19961,None,25,None,None,None,None,None,254,9,None,20325,20325,20325,0,0,1197,9,1206
+20200430,AK,355,18764,None,19,None,None,None,None,None,252,9,None,19119,19119,19119,0,0,0,0,0
 20200429,AK,355,18764,None,14,None,None,None,None,None,240,9,None,19119,19119,19119,0,0,2026,4,2030
 20200428,AK,351,16738,None,16,None,None,None,None,None,228,9,None,17089,17089,17089,0,0,827,6,833
 20200427,AK,345,15911,None,10,None,None,None,None,None,218,9,None,16256,16256,16256,0,0,75,4,79

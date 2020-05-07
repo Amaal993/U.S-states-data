@@ -1,4 +1,11 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200506,IN,21870,98626,None,1558,None,526,None,281,None,None,1377,None,120496,120496,120496,51,0,3825,837,4662
+20200505,IN,21033,94801,None,1537,None,480,None,272,None,None,1326,None,115834,115834,115834,62,0,2011,526,2537
+20200504,IN,20507,92790,None,1449,None,483,None,249,None,None,1264,None,113297,113297,113297,18,0,3864,574,4438
+20200503,IN,19933,88926,None,1398,None,476,None,242,None,None,1246,None,108859,108859,108859,17,0,4080,638,4718
+20200502,IN,19295,84846,None,1456,None,487,None,244,None,None,1229,None,104141,104141,104141,54,0,3837,665,4502
+20200501,IN,18630,81009,None,1431,None,514,None,257,None,None,1175,None,99639,99639,99639,61,0,3846,795,4641
+20200430,IN,17835,77163,None,1466,None,549,None,275,None,None,1114,None,94998,94998,94998,49,0,2795,653,3448
 20200429,IN,17182,74368,None,1484,None,570,None,262,None,None,1065,None,91550,91550,91550,164,0,3775,594,4369
 20200428,IN,16588,70593,None,1518,None,546,None,275,None,None,901,None,87181,87181,87181,57,0,2078,627,2705
 20200427,IN,15961,68515,None,1493,None,581,None,284,None,None,844,None,84476,84476,84476,31,0,1819,949,2768
@@ -46,8 +53,8 @@ date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulativ
 20200316,IN,24,115,None,None,None,None,None,None,None,None,1,None,139,139,139,1,0,13,5,18
 20200315,IN,19,102,None,None,None,None,None,None,None,None,0,None,121,121,121,0,0,28,4,32
 20200314,IN,15,74,None,None,None,None,None,None,None,None,0,None,89,89,89,0,0,13,3,16
-20200313,IN,12,61,,,,,,,,,,,73,73,73,0,0,9,0,9
-20200312,IN,12,52,,,,,,,,,,,64,64,64,0,0,19,2,21
+20200313,IN,12,61,None,None,None,None,None,None,None,None,None,None,73,73,73,0,0,9,0,9
+20200312,IN,12,52,None,None,None,None,None,None,None,None,None,None,64,64,64,0,0,19,2,21
 20200311,IN,10,33,,,,,,,,,,,43,43,43,0,0,3,4,7
 20200310,IN,6,30,,,,,,,,,,,36,36,36,0,0,30,4,34
 20200309,IN,2,,,,,,,,,,,,2,2,2,0,0,0,0,0

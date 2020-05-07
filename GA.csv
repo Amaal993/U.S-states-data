@@ -1,4 +1,11 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200506,GA,30696,173441,None,None,5765,None,1343,None,None,None,1311,5765,204137,204137,204137,23,131,2269,985,3254
+20200505,GA,29711,171172,None,None,5634,None,1318,None,None,None,1288,5634,200883,200883,200883,66,108,17215,343,17558
+20200504,GA,29368,153957,None,None,5526,None,1284,None,None,None,1222,5526,183325,183325,183325,45,133,7463,766,8229
+20200503,GA,28602,146494,None,None,5393,None,1249,None,None,None,1177,5393,175096,175096,175096,3,6,0,296,296
+20200502,GA,28306,146494,None,None,5387,None,1247,None,None,None,1174,5387,174800,174800,174800,20,118,5397,1036,6433
+20200501,GA,27270,141097,None,None,5269,None,1215,None,None,None,1154,5269,168367,168367,168367,34,113,18208,1115,19323
+20200430,GA,26155,122889,None,None,5156,None,1171,None,None,None,1120,5156,149044,149044,149044,27,100,4522,583,5105
 20200429,GA,25572,118367,None,None,5056,None,1148,None,None,None,1093,5056,143939,143939,143939,67,242,2962,957,3919
 20200428,GA,24615,115405,None,None,4814,None,1087,None,None,None,1026,4814,140020,140020,140020,55,133,12149,702,12851
 20200427,GA,23913,103256,None,None,4681,None,1057,None,None,None,971,4681,127169,127169,127169,59,322,3434,512,3946
@@ -47,7 +54,7 @@ date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulativ
 20200315,GA,99,None,None,None,None,None,None,None,None,None,1,None,99,99,99,0,0,0,33,33
 20200314,GA,66,None,None,None,None,None,None,None,None,None,1,None,66,66,66,0,0,0,24,24
 20200313,GA,42,None,None,None,None,None,None,None,None,None,1,None,42,42,42,1,0,0,11,11
-20200312,GA,31,,,,,,,,,,,,31,31,31,0,0,0,9,9
+20200312,GA,31,None,None,None,None,None,None,None,None,None,None,None,31,31,31,0,0,0,9,9
 20200311,GA,22,,,,,,,,,,,,22,22,22,0,0,0,5,5
 20200310,GA,17,,,,,,,,,,,,17,17,17,0,0,0,5,5
 20200309,GA,12,,,,,,,,,,,,12,12,12,0,0,0,5,5

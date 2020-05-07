@@ -1,4 +1,11 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200506,MP,15,1783,None,None,None,None,None,None,None,12,2,None,1798,1798,1798,0,0,0,1,1
+20200505,MP,14,1783,None,None,None,None,None,None,None,12,2,None,1797,1797,1797,0,0,462,0,462
+20200504,MP,14,1321,None,None,None,None,None,None,None,12,2,None,1335,1335,1335,0,0,0,0,0
+20200503,MP,14,1321,None,None,None,None,None,None,None,12,2,None,1335,1335,1335,0,0,387,0,387
+20200502,MP,14,934,None,None,None,None,None,None,None,12,2,None,948,948,948,0,0,185,0,185
+20200501,MP,14,749,None,None,None,None,None,None,None,12,2,None,763,763,763,0,0,164,0,164
+20200430,MP,14,585,None,None,None,None,None,None,None,12,2,None,599,599,599,0,0,375,0,375
 20200429,MP,14,210,None,None,None,None,None,None,None,12,2,None,224,224,224,0,0,159,0,159
 20200428,MP,14,51,None,None,None,None,None,None,None,12,2,None,65,65,65,0,0,0,0,0
 20200427,MP,14,51,None,None,None,None,None,None,None,11,2,None,65,65,65,0,0,0,0,0
@@ -27,11 +34,11 @@ date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulativ
 20200404,MP,8,13,10,None,None,None,None,None,None,None,1,None,31,21,21,0,0,0,0,0
 20200403,MP,8,13,10,None,None,None,None,None,None,None,1,None,31,21,21,0,0,0,0,0
 20200402,MP,8,13,12,None,None,None,None,None,None,None,1,None,33,21,21,1,0,13,2,15
-20200401,MP,6,,,,,,,,,,,,6,6,6,0,0,0,4,4
-20200331,MP,2,,,,,,,,,,,,2,2,2,0,0,0,0,0
-20200330,MP,2,,,,,,,,,,,,2,2,2,0,0,0,0,0
-20200329,MP,2,,,,,,,,,,,,2,2,2,0,0,0,0,0
-20200328,MP,2,,,,,,,,,,,,2,2,2,0,0,0,2,2
+20200401,MP,6,None,None,None,None,None,None,None,None,None,None,None,6,6,6,0,0,0,4,4
+20200331,MP,2,None,None,None,None,None,None,None,None,None,None,None,2,2,2,0,0,0,0,0
+20200330,MP,2,None,None,None,None,None,None,None,None,None,None,None,2,2,2,0,0,0,0,0
+20200329,MP,2,None,None,None,None,None,None,None,None,None,None,None,2,2,2,0,0,0,0,0
+20200328,MP,2,None,None,None,None,None,None,None,None,None,None,None,2,2,2,0,0,0,2,2
 20200327,MP,0,None,None,None,None,None,None,None,None,None,0,None,0,0,0,0,0,0,0,0
 20200326,MP,0,None,None,None,None,None,None,None,None,None,0,None,0,0,0,0,0,0,0,0
 20200325,MP,0,None,None,None,None,None,None,None,None,None,0,None,0,0,0,0,0,0,0,0
@@ -42,5 +49,5 @@ date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulativ
 20200320,MP,0,None,None,None,None,None,None,None,None,None,0,None,0,0,0,0,0,0,0,0
 20200319,MP,0,None,None,None,None,None,None,None,None,None,0,None,0,0,0,0,0,0,0,0
 20200318,MP,0,None,None,None,None,None,None,None,None,None,0,None,0,0,0,0,0,0,0,0
-20200317,MP,0,,,,,,,,,,,,0,0,0,0,0,0,0,0
-20200316,MP,0,,,,,,,,,,,,0,0,0,None,None,None,None,None
+20200317,MP,0,None,None,None,None,None,None,None,None,None,None,None,0,0,0,0,0,0,0,0
+20200316,MP,0,None,None,None,None,None,None,None,None,None,None,None,0,0,0,None,None,None,None,None

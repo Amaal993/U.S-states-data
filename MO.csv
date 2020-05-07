@@ -1,4 +1,11 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200506,MO,9102,91645,None,953,None,None,None,134,None,None,396,None,100747,100747,100747,19,0,5495,186,5681
+20200505,MO,8916,86150,None,893,None,None,None,139,None,None,377,None,95066,95066,95066,19,0,3453,162,3615
+20200504,MO,8754,82697,None,858,None,None,None,135,None,None,358,None,91451,91451,91451,6,0,8107,368,8475
+20200503,MO,8386,74590,None,896,None,None,None,141,None,None,352,None,82976,82976,82976,1,0,0,232,232
+20200502,MO,8154,74590,None,896,None,None,None,141,None,None,351,None,82744,82744,82744,14,0,0,319,319
+20200501,MO,7835,74590,None,883,None,None,None,137,None,None,337,None,82425,82425,82425,8,0,1465,273,1738
+20200430,MO,7562,73125,None,853,None,None,None,141,None,None,329,None,80687,80687,80687,11,0,3391,137,3528
 20200429,MO,7425,69734,None,891,None,None,None,125,None,None,318,None,77159,77159,77159,4,0,3534,122,3656
 20200428,MO,7303,66200,None,655,None,None,None,105,None,None,314,None,73503,73503,73503,26,0,2265,132,2397
 20200427,MO,7171,63935,None,679,None,None,None,109,None,None,288,None,71106,71106,71106,14,0,1184,174,1358
@@ -46,8 +53,8 @@ date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulativ
 20200316,MO,6,164,None,None,None,None,None,None,None,None,0,None,170,170,170,0,0,42,1,43
 20200315,MO,5,122,None,None,None,None,None,None,None,None,0,None,127,127,127,0,0,32,1,33
 20200314,MO,4,90,None,None,None,None,None,None,None,None,0,None,94,94,94,0,0,19,2,21
-20200313,MO,2,71,,,,,,,,,,,73,73,73,0,0,7,1,8
-20200312,MO,1,64,,,,,,,,,,,65,65,65,0,0,64,0,64
+20200313,MO,2,71,None,None,None,None,None,None,None,None,None,None,73,73,73,0,0,7,1,8
+20200312,MO,1,64,None,None,None,None,None,None,None,None,None,None,65,65,65,0,0,64,0,64
 20200311,MO,1,,,,,,,,,,,,1,1,1,0,0,0,0,0
 20200310,MO,1,,,,,,,,,,,,1,1,1,0,0,0,0,0
 20200309,MO,1,,,,,,,,,,,,1,1,1,0,0,0,0,0

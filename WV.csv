@@ -1,4 +1,11 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200506,WV,1248,54536,None,76,None,22,None,12,None,716,50,None,55784,55784,55784,0,0,951,10,961
+20200505,WV,1238,53585,None,64,None,23,None,12,None,630,50,None,54823,54823,54823,0,0,1552,32,1584
+20200504,WV,1206,52033,None,73,None,28,None,15,None,611,50,None,53239,53239,53239,0,0,1586,15,1601
+20200503,WV,1191,50447,None,73,None,28,None,15,None,611,50,None,51638,51638,51638,2,0,2470,22,2492
+20200502,WV,1169,47977,None,76,None,29,None,15,None,572,48,None,49146,49146,49146,2,0,2269,33,2302
+20200501,WV,1136,45708,None,81,None,33,None,18,None,555,46,None,46844,46844,46844,5,0,2285,18,2303
+20200430,WV,1118,43423,None,84,None,38,None,20,None,545,41,None,44541,44541,44541,3,0,1447,23,1470
 20200429,WV,1095,41976,None,102,None,40,None,21,None,504,38,None,43071,43071,43071,1,0,0,16,16
 20200428,WV,1079,41976,None,87,None,28,None,15,None,481,37,None,43055,43055,43055,1,0,0,16,16
 20200427,WV,1063,41976,None,100,None,38,None,20,None,455,36,None,43039,43039,43039,2,0,3957,19,3976
@@ -45,9 +52,9 @@ date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulativ
 20200317,WV,0,80,4,None,None,None,None,None,None,None,0,None,84,80,80,0,0,0,0,0
 20200316,WV,0,80,4,None,None,None,None,None,None,None,0,None,84,80,80,0,0,42,0,42
 20200315,WV,0,38,1,None,None,None,None,None,None,None,0,None,39,38,38,0,0,12,0,12
-20200314,WV,0,26,5,,,,,,,,,,31,26,26,0,0,9,0,9
-20200313,WV,0,17,4,,,,,,,,,,21,17,17,0,0,10,0,10
-20200312,WV,0,7,1,,,,,,,,,,8,7,7,0,0,4,0,4
+20200314,WV,0,26,5,None,None,None,None,None,None,None,None,None,31,26,26,0,0,9,0,9
+20200313,WV,0,17,4,None,None,None,None,None,None,None,None,None,21,17,17,0,0,10,0,10
+20200312,WV,0,7,1,None,None,None,None,None,None,None,None,None,8,7,7,0,0,4,0,4
 20200311,WV,0,3,2,,,,,,,,,,5,3,3,0,0,1,0,1
 20200310,WV,0,2,3,,,,,,,,,,5,2,2,0,0,0,0,0
 20200309,WV,0,2,3,,,,,,,,,,5,2,2,0,0,0,0,0

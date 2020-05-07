@@ -1,4 +1,11 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200506,ND,1323,37309,None,32,97,None,None,None,None,582,31,97,38632,38632,38632,6,2,2154,57,2211
+20200505,ND,1266,35155,None,31,95,None,None,None,None,559,25,95,36421,36421,36421,0,1,1626,41,1667
+20200504,ND,1225,33529,None,31,94,None,None,None,None,540,25,94,34754,34754,34754,0,4,1367,34,1401
+20200503,ND,1191,32162,None,31,90,None,None,None,None,517,25,90,33353,33353,33353,1,0,1768,38,1806
+20200502,ND,1153,30394,None,32,90,None,None,None,None,510,24,90,31547,31547,31547,1,4,1976,46,2022
+20200501,ND,1107,28418,None,27,86,None,None,None,None,482,23,86,29525,29525,29525,4,1,2025,40,2065
+20200430,ND,1067,26393,None,30,85,None,None,None,None,458,19,85,27460,27460,27460,0,3,1890,34,1924
 20200429,ND,1033,24503,None,28,82,None,None,None,None,437,19,82,25536,25536,25536,0,3,1771,42,1813
 20200428,ND,991,22732,None,25,79,None,None,None,None,409,19,79,23723,23723,23723,0,2,1240,49,1289
 20200427,ND,942,21492,None,23,77,None,None,None,None,350,19,77,22434,22434,22434,2,6,1642,75,1717
@@ -47,7 +54,7 @@ date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulativ
 20200315,ND,1,95,4,None,None,None,None,None,None,None,0,None,100,96,96,0,0,41,0,41
 20200314,ND,1,54,14,None,None,None,None,None,None,None,0,None,69,55,55,0,0,15,0,15
 20200313,ND,1,39,12,None,None,None,None,None,None,None,0,None,52,40,40,0,0,27,0,27
-20200312,ND,1,12,14,,,,,,,,,,27,13,13,0,0,5,1,6
+20200312,ND,1,12,14,None,None,None,None,None,None,None,None,None,27,13,13,0,0,5,1,6
 20200311,ND,0,7,6,,,,,,,,,,13,7,7,0,0,1,0,1
 20200310,ND,0,6,2,,,,,,,,,,8,6,6,0,0,6,0,6
 20200309,ND,0,0,,,,,,,,,,,0,0,0,0,0,0,0,0

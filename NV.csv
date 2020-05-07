@@ -1,4 +1,11 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200506,NV,5663,43612,None,None,None,None,None,None,None,203,276,None,49275,49275,49275,8,0,1322,69,1391
+20200505,NV,5594,42290,None,None,None,None,None,None,None,200,268,None,47884,47884,47884,6,0,1615,103,1718
+20200504,NV,5491,40675,None,None,None,None,None,None,None,185,262,None,46166,46166,46166,5,0,832,65,897
+20200503,NV,5426,39843,None,None,None,None,None,None,None,182,257,None,45269,45269,45269,3,0,767,115,882
+20200502,NV,5311,39076,None,None,None,None,None,None,None,182,254,None,44387,44387,44387,11,0,708,84,792
+20200501,NV,5227,38368,None,None,None,None,None,None,None,182,243,None,43595,43595,43595,6,0,1380,229,1609
+20200430,NV,4998,36988,None,None,None,None,None,None,None,158,237,None,41986,41986,41986,7,0,858,100,958
 20200429,NV,4898,36130,None,None,None,None,None,None,None,100,230,None,41028,41028,41028,11,0,816,93,909
 20200428,NV,4805,35314,None,None,None,None,None,None,None,None,219,None,40119,40119,40119,13,0,1191,115,1306
 20200427,NV,4690,34123,None,None,None,None,None,None,None,None,206,None,38813,38813,38813,0,0,539,88,627
@@ -44,10 +51,10 @@ date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulativ
 20200318,NV,55,168,None,None,None,None,None,None,None,None,1,None,223,223,223,0,0,0,0,0
 20200317,NV,55,168,None,None,None,None,None,None,None,None,1,None,223,223,223,0,0,0,10,10
 20200316,NV,45,168,None,None,None,None,None,None,None,None,1,None,213,213,213,1,0,0,24,24
-20200315,NV,21,168,164,,,,,,,,,,353,189,189,0,0,0,1,1
-20200314,NV,20,168,,,,,,,,,,,188,188,188,0,0,0,9,9
-20200313,NV,11,168,,,,,,,,,,,179,179,179,0,0,0,4,4
-20200312,NV,7,168,,,,,,,,,,,175,175,175,0,0,0,2,2
+20200315,NV,21,168,164,None,None,None,None,None,None,None,None,None,353,189,189,0,0,0,1,1
+20200314,NV,20,168,None,None,None,None,None,None,None,None,None,None,188,188,188,0,0,0,9,9
+20200313,NV,11,168,None,None,None,None,None,None,None,None,None,None,179,179,179,0,0,0,4,4
+20200312,NV,7,168,None,None,None,None,None,None,None,None,None,None,175,175,175,0,0,0,2,2
 20200311,NV,5,168,,,,,,,,,,,173,173,173,0,0,154,4,158
 20200310,NV,1,14,,,,,,,,,,,15,15,15,0,0,0,0,0
 20200309,NV,1,14,,,,,,,,,,,15,15,15,0,0,0,0,0

@@ -1,4 +1,11 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200506,KS,5734,36380,None,None,571,None,213,None,96,318,144,571,42114,42114,42114,7,5,1746,276,2022
+20200505,KS,5458,34634,None,None,566,None,212,None,95,296,137,566,40092,40092,40092,1,13,1276,213,1489
+20200504,KS,5245,33358,None,None,553,None,209,None,95,291,136,553,38603,38603,38603,2,6,1610,215,1825
+20200503,KS,5030,31748,None,None,547,None,209,None,95,286,134,547,36778,36778,36778,3,6,1552,284,1836
+20200502,KS,4746,30196,None,None,541,None,206,None,95,286,131,541,34942,34942,34942,1,7,1611,297,1908
+20200501,KS,4449,28585,None,None,534,None,206,None,96,280,130,534,33034,33034,33034,1,11,1197,211,1408
+20200430,KS,4238,27388,None,None,523,None,201,None,93,272,129,523,31626,31626,31626,4,8,1668,500,2168
 20200429,KS,3738,25720,None,None,515,None,198,None,88,266,125,515,29458,29458,29458,1,11,1121,247,1368
 20200428,KS,3491,24599,None,None,504,None,None,None,None,None,124,504,28090,28090,28090,4,8,760,163,923
 20200427,KS,3328,23839,None,None,496,None,None,None,None,None,120,496,27167,27167,27167,2,11,786,154,940
@@ -46,8 +53,8 @@ date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulativ
 20200316,KS,11,166,None,None,None,None,None,None,None,None,1,None,177,177,177,0,0,31,3,34
 20200315,KS,8,135,None,None,None,None,None,None,None,None,1,None,143,143,143,0,0,42,2,44
 20200314,KS,6,93,None,None,None,None,None,None,None,None,1,None,99,99,99,1,0,0,0,0
-20200313,KS,6,93,,,,,,,,,,,99,99,99,0,0,52,2,54
-20200312,KS,4,41,,,,,,,,,,,45,45,45,0,0,0,3,3
+20200313,KS,6,93,None,None,None,None,None,None,None,None,None,None,99,99,99,0,0,52,2,54
+20200312,KS,4,41,None,None,None,None,None,None,None,None,None,None,45,45,45,0,0,0,3,3
 20200311,KS,1,41,,,,,,,,,,,42,42,42,0,0,24,0,24
 20200310,KS,1,17,21,,,,,,,,,,39,18,18,0,0,6,0,6
 20200309,KS,1,11,0,,,,,,,,,,12,12,12,0,0,0,0,0

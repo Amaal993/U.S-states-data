@@ -1,4 +1,11 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200506,CO,17364,68612,None,792,2919,None,None,None,None,2801,903,2919,85976,85976,85976,52,81,515,457,972
+20200505,CO,16907,68097,None,834,2838,None,None,None,None,2743,851,2838,85004,85004,85004,9,39,1642,272,1914
+20200504,CO,16635,66455,None,883,2799,None,None,None,None,2650,842,2799,83090,83090,83090,10,6,2774,410,3184
+20200503,CO,16225,63681,None,883,2793,None,None,None,None,2607,832,2793,79906,79906,79906,12,46,2500,457,2957
+20200502,CO,15768,61181,None,931,2747,None,None,None,None,2553,820,2747,76949,76949,76949,43,50,4075,484,4559
+20200501,CO,15284,57106,None,959,2697,None,None,None,None,2486,777,2697,72390,72390,72390,11,76,805,526,1331
+20200430,CO,14758,56301,None,966,2621,None,None,None,None,2415,766,2621,71059,71059,71059,6,11,1587,23,1610
 20200429,CO,14735,54714,None,964,2610,None,None,None,None,2275,760,2610,69449,69449,69449,54,125,2252,856,3108
 20200428,CO,13879,52462,None,994,2485,None,None,None,None,2275,706,2485,66341,66341,66341,26,47,2629,438,3067
 20200427,CO,13441,49833,None,1007,2438,None,None,None,None,2150,680,2438,63274,63274,63274,8,28,3010,473,3483
@@ -46,8 +53,8 @@ date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulativ
 20200316,CO,131,627,None,None,None,None,None,None,None,None,1,None,758,758,758,0,0,0,0,0
 20200315,CO,131,627,None,None,None,None,None,None,None,None,1,None,758,758,758,0,0,17,30,47
 20200314,CO,101,610,None,None,None,None,None,None,None,None,1,None,711,711,711,1,0,86,29,115
-20200313,CO,72,524,,,,,,,,,,,596,596,596,0,0,226,27,253
-20200312,CO,45,298,,,,,,,,,,,343,343,343,0,0,47,17,64
+20200313,CO,72,524,None,None,None,None,None,None,None,None,None,None,596,596,596,0,0,226,27,253
+20200312,CO,45,298,None,None,None,None,None,None,None,None,None,None,343,343,343,0,0,47,17,64
 20200311,CO,28,251,,,,,,,,,,,279,279,279,0,0,109,16,125
 20200310,CO,12,142,1,,,,,,,,,,155,154,154,0,0,9,3,12
 20200309,CO,9,133,,,,,,,,,,,142,142,142,0,0,29,1,30
