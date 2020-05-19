@@ -1,4 +1,17 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200519,NE,10625,59359,None,None,None,None,None,None,None,None,125,None,69984,69984,69984,2,0,2206,277,2483
+20200518,NE,10348,57153,None,None,None,None,None,None,None,None,123,None,67501,67501,67501,0,0,1733,128,1861
+20200517,NE,10220,55420,None,None,None,None,None,None,None,None,123,None,65640,65640,65640,4,0,5214,448,5662
+20200516,NE,9772,50206,None,None,None,None,None,None,None,None,119,None,59978,59978,59978,6,0,2407,356,2763
+20200515,NE,9416,47799,None,None,None,None,None,None,None,None,113,None,57215,57215,57215,6,0,3533,341,3874
+20200514,NE,9075,44266,None,None,None,None,None,None,None,None,107,None,53341,53341,53341,4,0,3233,383,3616
+20200513,NE,8692,41033,None,192,None,81,None,56,None,None,103,None,49725,49725,49725,3,0,1662,120,1782
+20200512,NE,8572,39371,None,192,None,81,None,56,None,None,100,None,47943,47943,47943,2,0,1447,257,1704
+20200511,NE,8315,37924,None,None,None,None,None,None,None,None,98,None,46239,46239,46239,2,0,589,81,670
+20200510,NE,8234,37335,None,None,None,None,None,None,None,None,96,None,45569,45569,45569,4,0,2190,403,2593
+20200509,NE,7831,35145,None,None,None,None,None,None,None,None,92,None,42976,42976,42976,2,0,1923,641,2564
+20200508,NE,7190,33222,None,None,None,None,None,None,None,None,90,None,40412,40412,40412,4,0,2235,419,2654
+20200507,NE,6771,30987,None,None,None,None,None,None,None,None,86,None,37758,37758,37758,4,0,1297,333,1630
 20200506,NE,6438,29690,None,None,None,None,None,None,None,None,82,None,36128,36128,36128,4,0,1164,355,1519
 20200505,NE,6083,28526,None,None,None,None,None,None,None,None,78,None,34609,34609,34609,0,0,682,173,855
 20200504,NE,5910,27844,None,None,None,None,None,None,None,None,78,None,33754,33754,33754,2,0,1908,584,2492

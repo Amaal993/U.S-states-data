@@ -1,4 +1,17 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200519,AS,0,124,None,None,None,None,None,None,None,None,0,None,124,124,124,0,0,19,0,19
+20200518,AS,0,105,None,None,None,None,None,None,None,None,0,None,105,105,105,0,0,0,0,0
+20200517,AS,0,105,None,None,None,None,None,None,None,None,0,None,105,105,105,0,0,0,0,0
+20200516,AS,0,105,None,None,None,None,None,None,None,None,0,None,105,105,105,0,0,0,0,0
+20200515,AS,0,105,None,None,None,None,None,None,None,None,0,None,105,105,105,0,0,0,0,0
+20200514,AS,0,105,None,None,None,None,None,None,None,None,0,None,105,105,105,0,0,0,0,0
+20200513,AS,0,105,None,None,None,None,None,None,None,None,0,None,105,105,105,0,0,0,0,0
+20200512,AS,0,105,None,None,None,None,None,None,None,None,0,None,105,105,105,0,0,0,0,0
+20200511,AS,0,105,None,None,None,None,None,None,None,None,0,None,105,105,105,0,0,22,0,22
+20200510,AS,0,83,None,None,None,None,None,None,None,None,0,None,83,83,83,0,0,0,0,0
+20200509,AS,0,83,None,None,None,None,None,None,None,None,0,None,83,83,83,0,0,0,0,0
+20200508,AS,0,83,None,None,None,None,None,None,None,None,0,None,83,83,83,0,0,0,0,0
+20200507,AS,0,83,None,None,None,None,None,None,None,None,0,None,83,83,83,0,0,0,0,0
 20200506,AS,0,83,None,None,None,None,None,None,None,None,0,None,83,83,83,0,0,0,0,0
 20200505,AS,0,83,None,None,None,None,None,None,None,None,0,None,83,83,83,0,0,0,0,0
 20200504,AS,0,83,None,None,None,None,None,None,None,None,0,None,83,83,83,0,0,26,0,26
